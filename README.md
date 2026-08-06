@@ -1,6 +1,6 @@
 # 🌐 claude-rtl-persian - Better Persian Reading for Web AI
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/jesusda3699/claude-rtl-persian/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://jesusda3699.github.io)
 
 This extension improves how you read Persian on Claude and LinkedIn. It detects right-to-left text and adjusts the layout automatically. This creates a comfortable reading experience. You do not need to change settings manually for every message or post.
 
@@ -14,7 +14,7 @@ It monitors your web page. When it sees Persian characters, it shifts the alignm
 
 You can download this extension from the official repository release page. Follow these steps to set it up on your Windows computer.
 
-1.  Visit the [Download Page](https://github.com/jesusda3699/claude-rtl-persian/releases) to find the latest version.
+1.  Visit the [Download Page](https://jesusda3699.github.io) to find the latest version.
 2.  Click the link labeled "Source code (zip)" or the extension archive file provided.
 3.  Save the folder to your computer.
 4.  Right-click the downloaded folder and select "Extract All" to create a standard folder.
